@@ -3,3 +3,6 @@
     color: #e32929;
   }
   
+  #fh5co-team .fw-row > div {
+    opacity: 0;
+  }
